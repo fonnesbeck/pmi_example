@@ -9,6 +9,7 @@ dependencies:
     - pandas
     - jupyter
     - notebook
+    - mkl-service
     - seaborn
     - theano
     - pymc3
