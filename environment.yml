@@ -1,0 +1,14 @@
+name: demo
+channels:
+    - conda-forge
+dependencies:
+    - python=3.6
+    - scikit-learn
+    - statsmodels
+    - numpy
+    - pandas
+    - jupyter
+    - notebook
+    - seaborn
+    - theano
+    - pymc3
